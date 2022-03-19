@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-
-<p>🔭 I’m currently working on</p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About me
+<p>🔭 I’m currently working on my blog</p>
 <p>🌱 I’m currently learning Vue.js</p>
 <h3>Things I work with</h3>
 <p>
